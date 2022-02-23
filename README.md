@@ -12,5 +12,5 @@ REPORTS:	Airport Pickup List, Arrivals List, Departure List, Canceled List, In-H
 ADMINISTRATION:	Define setup information for Hotel / Guest House.
 Hotel Information, Room Types, Rooms, Charge Codes, Users
 
-##TECHNOLOGY:
+## TECHNOLOGY
 PHP, HTML, CSS, JavaScript, MySQL
